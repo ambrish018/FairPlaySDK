@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>content_key_id_list</key>
+		<array>
+			<string>skd://fps.ezdrm.com/api/licenses/75b51abc-9bce-4b96-a552-805eea397733</string>
+		</array>
+		<key>name</key>
+		<string>stream</string>
+		<key>playlist_url</key>
+		<string>https://d8qtl3txcpjuu.cloudfront.net/7786/video/29723/drmshield/hls/master_7786_29723_offline_ios.m3u8</string>
+		<key>is_protected</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>content_key_id_list</key>
+		<array>
+			<string>skd://fps.ezdrm.com/api/licenses/06e08ff7-3e68-4112-a571-8f8adb75f6e5</string>
+		</array>
+		<key>name</key>
+		<string>stream1</string>
+		<key>playlist_url</key>
+		<string>https://d8qtl3txcpjuu.cloudfront.net/7786/video/29720/drmshield/hls/master_7786_29720_offline_ios.m3u8</string>
+		<key>is_protected</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>content_key_id_list</key>
+		<array>
+			<string>skd://fps.ezdrm.com/api/licenses/fd2070e7-87ca-411a-9d8f-64583172143e</string>
+		</array>
+		<key>name</key>
+		<string>stream2</string>
+		<key>playlist_url</key>
+		<string>https://d8qtl3txcpjuu.cloudfront.net/7786/video/29722/drmshield/hls/master_7786_29722_offline_ios.m3u8</string>
+		<key>is_protected</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>content_key_id_list</key>
+		<array>
+			<string>skd://fps.ezdrm.com/api/licenses/4da03684-be92-4fd6-b37b-e0e58d7d8084</string>
+		</array>
+		<key>name</key>
+		<string>stream3</string>
+		<key>playlist_url</key>
+		<string>https://d8qtl3txcpjuu.cloudfront.net/7786/video/29719/drmshield/hls/master_7786_29719_offline_ios.m3u8</string>
+		<key>is_protected</key>
+		<true/>
+	</dict>
+</array>
+</plist>
